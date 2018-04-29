@@ -16,7 +16,7 @@ tags: [Investigación, Papers, Congresos, Libros] # add tag
 * The process of urban catalysis. The evolution of the urban spatial system in Arequipa from 1868 to 1920. Journal for Architecture of Infrastructure and Environment, 2007.
 
 ### Libros
-* <b>Libro:</b> Poética de un mundo habitado. 2018.
+* <b>Libro:</b> Poética de un mundo habitado, 2018.
 * <b>Capítulo:</b> The Study of Interfaces as a Method for Urban Renewal: a proposal for Vladivostok’s Downtown Waterfront. <b>Libro:</b> Urban Waterways: Evolving Paradigms for Hydro-based Urbanisms investigates the environmental, cultural, and economic future of cities on the water in the 21st century, 2016.
 * <b>Capítulo:</b> An integrated proposal for the renovation of the waterfront of Vladivostok, Russia. <b>Libro:</b> Environment, ecology and sustainability at the beginning of 21st century, 2015.
 * <b>Capítulo:</b> Using gis for large-span historical research comparing prehistoric and modern landscapes: A case from East Asia. <b>Libro:</b> Landscapes, identities and development : Europe and beyond, 2011.
